@@ -165,3 +165,10 @@
   fxtag = v0.0.5
   fxrequired = ToplevelOptional
   fxDONOTUSEurl = https://github.com/ESCOMP/FTorch_interface
+
+[submodule "components/dart"]
+	path = components/dart
+	url = https://github.com/CROCODILE-CESM/DART_interface.git
+	fxDONOTUSEurl = https://github.com/CROCODILE-CESM/DART_interface.git
+        fxrequired = ToplevelRequired
+        fxtag = croc-0.0.1
