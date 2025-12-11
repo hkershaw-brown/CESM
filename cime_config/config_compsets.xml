@@ -20,7 +20,7 @@
     ROF  = [RTM, MOSART, SROF]
     GLC  = [CISM2, DGLC, SGLC]
     WAV  = [WW3, DWAV, XWAV, SWAV]
-    ESP  = [SESP]
+    ESP  = [SESP, DART]
     BGC  = optional BGC scenario
 
     The OPTIONAL %phys attributes specify submodes of the given system
