@@ -35,9 +35,9 @@
 
 [submodule "cime"]
         path = cime
-        url = https://github.com/ESMCI/cime
-        fxDONOTUSEurl = https://github.com/ESMCI/cime
-	fxtag = cime6.1.127
+        url = https://github.com/hkershaw-brown/cime.git
+        fxDONOTUSEurl = https://github.com/hkershaw-brown/cime.git
+	fxtag = vdart-cime6.1.127
         fxrequired = ToplevelRequired
 
 [submodule "fms"]
