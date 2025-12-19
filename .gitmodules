@@ -98,10 +98,10 @@
 
 [submodule "cmeps"]
         path = components/cmeps
-        url = https://github.com/ESCOMP/CMEPS.git
-        fxDONOTUSEurl = https://github.com/ESCOMP/CMEPS.git
+        url = https://github.com/hkershaw-brown/CMEPS.git
+        fxDONOTUSEurl = https://github.com/hkershaw-brown/CMEPS.git
         fxrequired = ToplevelRequired
-	fxtag = cmeps1.1.17
+	fxtag = vdart-cmeps1.1.17
 
 [submodule "rtm"]
         path = components/rtm
