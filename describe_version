@@ -47,7 +47,7 @@ def main():
 
     # The '--long' option to git describe forces it to always show the hash, even if we're
     # on a tag.
-    git_describe = subprocess.check_output(['git', 'describe', '--long'],
+    git_describe = subprocess.check_output(['git', 'describe', '--long', '--tags'],
                                            cwd=cesmroot,
                                            universal_newlines=True)
     print(separator + 'git describe:\n' + git_describe + separator)
