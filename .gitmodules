@@ -171,4 +171,4 @@
 	url = https://github.com/CROCODILE-CESM/DART_interface.git
 	fxDONOTUSEurl = https://github.com/CROCODILE-CESM/DART_interface.git
         fxrequired = ToplevelRequired
-        fxtag = croc-0.0.1
+        fxtag = croc-0.0.2
